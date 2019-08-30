@@ -180,6 +180,7 @@
     <Content Include="Newtonsoft.Json.dll" />
     <Content Include="ThoughtWorks.QRCode.dll" />
     <Content Include="ThoughtWorks.QRCode.pdb" />
+    <Content Include="tiaoshi.aspx" />
     <Content Include="Web.config" />
     <Content Include="xianshi.asmx" />
     <Content Include="xinxi\tupian.aspx" />
@@ -553,6 +554,13 @@
       <DependentUpon>MasterPage.master</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="tiaoshi.aspx.cs">
+      <DependentUpon>tiaoshi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="tiaoshi.aspx.designer.cs">
+      <DependentUpon>tiaoshi.aspx</DependentUpon>
+    </Compile>
     <Compile Include="ValidateCode.aspx.cs">
       <DependentUpon>ValidateCode.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>

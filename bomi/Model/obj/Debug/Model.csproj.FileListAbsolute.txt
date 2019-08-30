@@ -2,3 +2,7 @@ E:\博米定制开发\bomi\Model\bin\Debug\Maticsoft.Model.dll
 E:\博米定制开发\bomi\Model\bin\Debug\Maticsoft.Model.pdb
 E:\博米定制开发\bomi\Model\obj\Debug\Maticsoft.Model.dll
 E:\博米定制开发\bomi\Model\obj\Debug\Maticsoft.Model.pdb
+G:\ceshi08-30\sufeng\bomi\Model\bin\Debug\Maticsoft.Model.dll
+G:\ceshi08-30\sufeng\bomi\Model\bin\Debug\Maticsoft.Model.pdb
+G:\ceshi08-30\sufeng\bomi\Model\obj\Debug\Maticsoft.Model.dll
+G:\ceshi08-30\sufeng\bomi\Model\obj\Debug\Maticsoft.Model.pdb

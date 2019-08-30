@@ -6,3 +6,12 @@ E:\博米定制开发\bomi\DBUtility\bin\Debug\MySql.Data.dll
 E:\博米定制开发\bomi\DBUtility\bin\Debug\System.Data.SQLite.DLL
 E:\博米定制开发\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
 E:\博米定制开发\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\IBatisNet.Common.dll
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\MySql.Data.dll
+G:\ceshi08-30\sufeng\bomi\DBUtility\bin\Debug\System.Data.SQLite.DLL
+G:\ceshi08-30\sufeng\bomi\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+G:\ceshi08-30\sufeng\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+G:\ceshi08-30\sufeng\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb
