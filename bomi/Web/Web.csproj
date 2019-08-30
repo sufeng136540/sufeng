@@ -183,7 +183,7 @@
     <Content Include="tiaoshi.aspx" />
     <Content Include="Web.config" />
     <Content Include="xianshi.asmx" />
-    <Content Include="xinceshi.aspx" />
+    <Content Include="xintiaoshi.aspx" />
     <Content Include="xinxi\tupian.aspx" />
     <Content Include="xinxi\wanglaizhang.aspx" />
     <Content Include="xitong\bumenlist.aspx" />
@@ -573,12 +573,12 @@
       <DependentUpon>xianshi.asmx</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="xinceshi.aspx.cs">
-      <DependentUpon>xinceshi.aspx</DependentUpon>
+    <Compile Include="xintiaoshi.aspx.cs">
+      <DependentUpon>xintiaoshi.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="xinceshi.aspx.designer.cs">
-      <DependentUpon>xinceshi.aspx</DependentUpon>
+    <Compile Include="xintiaoshi.aspx.designer.cs">
+      <DependentUpon>xintiaoshi.aspx</DependentUpon>
     </Compile>
     <Compile Include="xinxi\tupian.aspx.cs">
       <DependentUpon>tupian.aspx</DependentUpon>
