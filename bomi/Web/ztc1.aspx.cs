@@ -19,7 +19,7 @@ namespace Maticsoft.Web
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-
+            Label2.Text = "saasdsada";
         }
     }
 }
