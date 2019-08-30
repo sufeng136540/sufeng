@@ -1,0 +1,8 @@
+E:\博米定制开发\bomi\Common\bin\Debug\Maticsoft.Common.dll
+E:\博米定制开发\bomi\Common\bin\Debug\Maticsoft.Common.pdb
+E:\博米定制开发\bomi\Common\bin\Debug\COM.Excel.dll
+E:\博米定制开发\bomi\Common\bin\Debug\Excel.dll
+E:\博米定制开发\bomi\Common\bin\Debug\OpenSmtp.dll
+E:\博米定制开发\bomi\Common\bin\Debug\OWC10Chart.dll
+E:\博米定制开发\bomi\Common\obj\Debug\Maticsoft.Common.dll
+E:\博米定制开发\bomi\Common\obj\Debug\Maticsoft.Common.pdb

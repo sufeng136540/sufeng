@@ -1,0 +1,8 @@
+E:\博米定制开发\bomi\DBUtility\bin\Debug\Maticsoft.DBUtility.dll
+E:\博米定制开发\bomi\DBUtility\bin\Debug\Maticsoft.DBUtility.pdb
+E:\博米定制开发\bomi\DBUtility\bin\Debug\IBatisNet.Common.dll
+E:\博米定制开发\bomi\DBUtility\bin\Debug\IBatisNet.DataMapper.dll
+E:\博米定制开发\bomi\DBUtility\bin\Debug\MySql.Data.dll
+E:\博米定制开发\bomi\DBUtility\bin\Debug\System.Data.SQLite.DLL
+E:\博米定制开发\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.dll
+E:\博米定制开发\bomi\DBUtility\obj\Debug\Maticsoft.DBUtility.pdb

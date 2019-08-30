@@ -1,0 +1,4 @@
+E:\博米定制开发\bomi\Model\bin\Debug\Maticsoft.Model.dll
+E:\博米定制开发\bomi\Model\bin\Debug\Maticsoft.Model.pdb
+E:\博米定制开发\bomi\Model\obj\Debug\Maticsoft.Model.dll
+E:\博米定制开发\bomi\Model\obj\Debug\Maticsoft.Model.pdb
