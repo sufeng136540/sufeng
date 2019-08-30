@@ -19,7 +19,7 @@ namespace Maticsoft.Web
 
         protected void Button1_Click(object sender, EventArgs e)
         {
-            Response.Write("<script>alert('页面异常')</script>");
+            Response.Write("<script>alert('页面异常"+TextBox1.Text+"')</script>");
         }
     }
 }

@@ -11,7 +11,9 @@
     <div>
         <asp:Button ID="Button1" runat="server" Text="调    试" onclick="Button1_Click" />
     
-    &nbsp;这里是调试弹窗看得见法律上看到警方立刻就山东龙口佛教历史的肌肤了解多少法律就说到了房间里说的房间里</div>
+    &nbsp;这里是调试弹窗看得见法律上看到警方立刻就山东龙口佛教历史的肌肤了解多少法律就说到了房间里说的房间里<asp:TextBox ID="TextBox1" 
+            runat="server"></asp:TextBox>
+    </div>
     </form>
 </body>
 </html>
